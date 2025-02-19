@@ -16,5 +16,9 @@ This project explores these insights with data-driven visualizations and analysi
 
 one of the glances of the study; you can check the analysis in the documents above;
 ![Screenshot (452)](https://github.com/user-attachments/assets/b5d49093-a5e9-43f3-8949-c69c35d096b6)
+![Screenshot (451)](https://github.com/user-attachments/assets/4cf2aa12-692c-4883-9e85-92d8a30500f9)
+![Uploading Screenshot (450).png…]()
+
+
 
 
