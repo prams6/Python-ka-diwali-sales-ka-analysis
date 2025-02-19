@@ -13,5 +13,6 @@ Most shoppers belong to the 25-36 age group, most with the occupational backgrou
 Women lead the charge, making the highest number of purchases, especially in [food, clothing, and healthcare] categories.  
 
 This project explores these insights with data-driven visualizations and analysis. Check it out!.
-![image](https://github.com/user-attachments/assets/ea0d6dde-6452-4299-9b86-ae78fdcc9991)
+![Screenshot (452)](https://github.com/user-attachments/assets/b5d49093-a5e9-43f3-8949-c69c35d096b6)
+
 
