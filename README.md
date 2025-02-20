@@ -6,6 +6,8 @@ Our deep dive into customer data revealed some fascinating trends using python
 
 We uncovered the answers through our analytical study the following which can help us in the marketing campaigns and ads to connect with our customers and boost the sales:
 
+<h1><B> DATA ANALYSIS </B></H1>
+
 1. Which customers to solely focus on: 
 Most shoppers belong to the 25-36 age group, most with the occupational background in "IT and healthcare sectors" primarily corporate professionals and other employees.  
 
@@ -15,12 +17,12 @@ As we are focusing more on the revenue, profit and sales generation we have to a
 ![Screenshot (450)](https://github.com/user-attachments/assets/e7c853f3-be69-49df-b41b-815e016ddd01)
 
 
+<H1><B> ACTIONABLE BUSINESS INSIGHTS </B>/</H1>
 2.Who drives and bring the most contribution towards the sales of the company ? 
 Women lead the charge, making the highest number of purchases, especially in [food, clothing, and healthcare] categories.  
 
 This project explores these insights with data-driven visualizations and analysis. Check it out!.
-
-one of the glances of the study; you can check the analysis in the documents above;
+* one of the glances of the study; you can check the analysis in the documents above;
 
 
 
