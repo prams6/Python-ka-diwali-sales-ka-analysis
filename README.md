@@ -21,6 +21,9 @@ As we are focusing more on the revenue, profit and sales generation we have to a
 2.Who drives and bring the most contribution towards the sales of the company ? 
 Women lead the charge, making the highest number of purchases, especially in [food, clothing, and healthcare] categories.  
 
+<h1><B> CONCLUSION </B></H1>
+All the above insights can be used by the respective Sales and Marketing Analyst to focus on which parts of the zone sales should be contributed more and what kind of marketing campaigns and ads can be used to connect with the customers and grab the market segment from our competitors.
+
 This project explores these insights with data-driven visualizations and analysis. Check it out!.
 * one of the glances of the study; you can check the analysis in the documents above;
 
